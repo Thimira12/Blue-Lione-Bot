@@ -35,14 +35,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
+global.ownername = "𝓣𝓗𝓘𝓜𝓘𝓡𝓐 " //ur owner name
 global.ytname = "YT: Nipuna-apps" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
+global.socialm = "GitHub: 𝓣𝓗𝓘𝓜𝓘𝓡𝓐" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
+global.owner = ['+94701791736']
+global.ownertag = '+94760484855' //ur tag number
 global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
@@ -50,7 +50,7 @@ global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script 
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.author = "𝓣𝓗𝓘𝓜𝓘𝓡𝓐" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
+global.premium = ['701791736'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
